@@ -4,7 +4,7 @@
 
 # 🚀 PIYUSH DAGAR
 
-### `AI & ML Engineer · Full-Stack Dev · B.Tech CSE @ BMU 2023–2027`
+### `AI & ML Engineer · B.Tech CSE @ BMU 2023–2027`
 
 </div>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Building+intelligent+systems+with+ML+%26+Deep+Learning+%F0%9F%A7%A0;Python+%7C+TensorFlow+%7C+OpenCV+%7C+Scikit-learn+%E2%9A%A1;AI+%26+ML+Intern+%40+Edubot+Station+%F0%9F%8F%86;CNN+%7C+Transfer+Learning+%7C+NLP+%7C+Data+Science+%F0%9F%94%AC;Turning+raw+data+into+real-world+impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Building+intelligent+systems+with+ML+%26+Deep+Learning+%F0%9F%A7%A0;Python+%7C+TensorFlow+%7C+OpenCV+%7C+Scikit-learn+%E2%9A%A1;CNN+%7C+Transfer+Learning+%7C+NLP+%7C+Data+Science+%F0%9F%94%AC;Turning+raw+data+into+real-world+impact+%F0%9F%9A%80)](https://git.io/typing-svg)
 
 </div>
 
@@ -114,8 +114,7 @@ piyush = {
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Piyushdagar2705&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=a78bfa&icon_color=a78bfa&text_color=c9d1d9&ring_color=7928ca"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Piyushdagar2705&layout=compact&langs_count=7&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=a78bfa&text_color=c9d1d9"/>
+
 
 </div>
 
@@ -124,16 +123,6 @@ piyush = {
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Piyushdagar2705&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=7928ca&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&currStreakNum=ffffff&sideNums=ffffff&dates=6e7681" width="60%"/>
-
-</div>
-
----
-
-## `$ cat ./trophies`
-
-<div align="center">
-
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Piyushdagar2705&theme=darkhub&no-frame=true&no-bg=true&margin-w=8&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 </div>
 
