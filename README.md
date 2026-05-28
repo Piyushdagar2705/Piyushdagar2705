@@ -1,26 +1,43 @@
 <div align="center">
 
-<!-- SVG Banner - works natively on GitHub, no external image proxy needed -->
-<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+<!-- SVG Banner - inline, no external proxy needed -->
+<svg width="100%" height="260" viewBox="0 0 900 260" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" style="stop-color:#0d1117"/>
-      <stop offset="40%" style="stop-color:#1a0533"/>
+      <stop offset="35%" style="stop-color:#12052e"/>
+      <stop offset="75%" style="stop-color:#1e0a4a"/>
       <stop offset="100%" style="stop-color:#7928ca"/>
     </linearGradient>
-    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#a78bfa"/>
-      <stop offset="100%" style="stop-color:#ffffff"/>
+    <linearGradient id="nameGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#ffffff"/>
+      <stop offset="40%" style="stop-color:#e2d9f3"/>
+      <stop offset="100%" style="stop-color:#a78bfa"/>
     </linearGradient>
+    <linearGradient id="glowLine" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0d1117;stop-opacity:0"/>
+      <stop offset="30%" style="stop-color:#7928ca;stop-opacity:1"/>
+      <stop offset="70%" style="stop-color:#a78bfa;stop-opacity:1"/>
+      <stop offset="100%" style="stop-color:#0d1117;stop-opacity:0"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="coloredBlur"/>
+      <feMerge>
+        <feMergeNode in="coloredBlur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
   </defs>
-  <rect width="900" height="200" fill="url(#bgGrad)" rx="0"/>
-  <!-- Wave shapes -->
-  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,120 L900,200 L0,200 Z" fill="#7928ca" opacity="0.3"/>
-  <path d="M0,175 C200,130 400,170 600,150 C750,135 850,165 900,155 L900,200 L0,200 Z" fill="#a78bfa" opacity="0.15"/>
-  <!-- Name -->
-  <text x="450" y="90" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="url(#textGrad)">Piyush Dagar</text>
-  <!-- Subtitle -->
-  <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#c4b5fd" letter-spacing="2">AI &amp; ML Engineer · Full-Stack Dev · B.Tech CSE @ BMU</text>
+  <rect width="900" height="260" fill="url(#bgGrad)"/>
+  <circle cx="80" cy="60" r="80" fill="#7928ca" opacity="0.08"/>
+  <circle cx="820" cy="200" r="100" fill="#a78bfa" opacity="0.07"/>
+  <circle cx="450" cy="20" r="60" fill="#6d28d9" opacity="0.06"/>
+  <rect x="0" y="0" width="900" height="2" fill="url(#glowLine)" opacity="0.8"/>
+  <path d="M0,200 C150,155 300,210 450,180 C600,150 750,200 900,170 L900,260 L0,260 Z" fill="#7928ca" opacity="0.25"/>
+  <path d="M0,220 C200,185 400,215 600,200 C750,188 860,210 900,205 L900,260 L0,260 Z" fill="#a78bfa" opacity="0.12"/>
+  <text x="450" y="118" text-anchor="middle" font-family="'Segoe UI', 'Arial Black', sans-serif" font-size="72" font-weight="900" letter-spacing="6" fill="url(#nameGrad)" filter="url(#glow)">PIYUSH DAGAR</text>
+  <rect x="250" y="132" width="400" height="2" fill="url(#glowLine)" rx="2"/>
+  <text x="450" y="170" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="15" font-weight="400" fill="#c4b5fd" letter-spacing="3">AI &amp; ML ENGINEER  ·  FULL-STACK DEV  ·  B.TECH CSE @ BMU</text>
 </svg>
 
 </div>
