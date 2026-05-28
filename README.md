@@ -1,6 +1,27 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,30:0a0a2e,70:1a0533,100:7928ca&height=230&section=header&text=Piyush%20Dagar&fontSize=60&fontColor=ffffff&fontAlignY=38&desc=AI%20%26%20ML%20Engineer%20%7C%20Full-Stack%20Dev%20%7C%20B.Tech%20CSE%20%40%20BMU&descAlignY=58&descSize=16&descColor=a78bfa&animation=fadeIn" width="100%"/>
+<!-- SVG Banner - works natively on GitHub, no external image proxy needed -->
+<svg width="100%" height="200" viewBox="0 0 900 200" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#0d1117"/>
+      <stop offset="40%" style="stop-color:#1a0533"/>
+      <stop offset="100%" style="stop-color:#7928ca"/>
+    </linearGradient>
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#a78bfa"/>
+      <stop offset="100%" style="stop-color:#ffffff"/>
+    </linearGradient>
+  </defs>
+  <rect width="900" height="200" fill="url(#bgGrad)" rx="0"/>
+  <!-- Wave shapes -->
+  <path d="M0,160 C150,100 300,180 450,140 C600,100 750,160 900,120 L900,200 L0,200 Z" fill="#7928ca" opacity="0.3"/>
+  <path d="M0,175 C200,130 400,170 600,150 C750,135 850,165 900,155 L900,200 L0,200 Z" fill="#a78bfa" opacity="0.15"/>
+  <!-- Name -->
+  <text x="450" y="90" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="52" font-weight="700" fill="url(#textGrad)">Piyush Dagar</text>
+  <!-- Subtitle -->
+  <text x="450" y="130" text-anchor="middle" font-family="'Segoe UI', Arial, sans-serif" font-size="16" fill="#c4b5fd" letter-spacing="2">AI &amp; ML Engineer · Full-Stack Dev · B.Tech CSE @ BMU</text>
+</svg>
 
 </div>
 
@@ -21,7 +42,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Dagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushdagar2705/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-piyushdagar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piyushdagar/)
 [![GitHub](https://img.shields.io/badge/GitHub-Piyushdagar2705-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyushdagar2705)
-[![Email](https://img.shields.io/badge/Email-Piyushdagar2705-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Piyushdagar2705@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-Piyushdagar2705-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:Piyushdagar2705@gmail.com)
 
 </div>
 
@@ -33,7 +54,7 @@
 piyush = {
     "name"        : "Piyush Dagar",
     "degree"      : "B.Tech Computer Science Engineering @ BML Munjal University (2023–2027)",
-    "location"    : "Gurugram, Haryana, India",
+    "location"    : "Gurugram, Haryana, India 📍",
     "focus"       : ["Machine Learning", "Deep Learning", "AI Engineering", "Data Science"],
     "languages"   : ["Python", "C++"],
     "frameworks"  : ["TensorFlow", "Scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib"],
@@ -41,7 +62,7 @@ piyush = {
     "tools"       : ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
     "concepts"    : ["CNN", "Transfer Learning", "NLP", "OOP", "DSA",
                      "Feature Engineering", "Model Training", "Data Preprocessing"],
-    "internship"  : "AI & ML Intern @ Edubot Station Pvt. Ltd.",
+    "internship"  : "AI & ML Intern @ Edubot Station Pvt. Ltd. (Jun–Jul 2025)",
     "currently"   : "Building real-world ML models & expanding into Full-Stack Dev",
 }
 ```
@@ -167,7 +188,16 @@ piyush = {
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7928ca,50:1a0533,100:0d1117&height=120&section=footer" width="100%"/>
+<!-- SVG Footer Wave -->
+<svg width="100%" height="80" viewBox="0 0 900 80" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="footerGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#7928ca"/>
+      <stop offset="50%" style="stop-color:#1a0533"/>
+      <stop offset="100%" style="stop-color:#0d1117"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,20 C200,60 400,0 600,30 C750,50 850,10 900,20 L900,80 L0,80 Z" fill="url(#footerGrad)"/>
+</svg>
 
 </div>
-
