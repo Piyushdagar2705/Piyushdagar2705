@@ -24,7 +24,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Piyush%20Dagar-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/piyushdagar2705/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-piyushdagar-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/piyushdagar/)
-[![GitHub](https://img.shields.io/badge/GitHub-Piyushdagar2705-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Piyushdagar2705)
 
 </div>
 
