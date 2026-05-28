@@ -2,7 +2,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="38px"/>
 
-# 🚀 PIYUSH DAGAR
+#  PIYUSH DAGAR
 
 ### `AI & ML Engineer · B.Tech CSE @ BMU 2023–2027`
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Building+intelligent+systems+with+ML+%26+Deep+Learning+%F0%9F%A7%A0;Python+%7C+TensorFlow+%7C+OpenCV+%7C+Scikit-learn+%E2%9A%A1;CNN+%7C+Transfer+Learning+%7C+NLP+%7C+Data+Science+%F0%9F%94%AC;Turning+raw+data+into+real-world+impact+%F0%9F%9A%80)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=20&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&multiline=false&width=800&lines=Building+intelligent+systems+with+ML+%26+Deep+Learning+%F0%9F%A7%A0;Python+%7C+TensorFlow+%7C+OpenCV+%7C+Scikit-learn+%E2%9A%A1;CNN+%7C+Transfer+Learning+%7C+NLP+%7C+Data+Science+%F0%9F%94%AC)](https://git.io/typing-svg)
 
 </div>
 
