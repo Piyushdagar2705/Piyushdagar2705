@@ -34,18 +34,11 @@
 
 ```python
 piyush = {
-    "name"        : "Piyush Dagar",
-    "degree"      : "B.Tech Computer Science Engineering @ BML Munjal University (2023–2027)",
-    "location"    : "Gurugram, Haryana, India 📍",
-    "focus"       : ["Machine Learning", "Deep Learning", "AI Engineering", "Data Science"],
-    "languages"   : ["Python", "C++"],
-    "frameworks"  : ["TensorFlow", "Scikit-learn", "OpenCV", "NumPy", "Pandas", "Matplotlib"],
-    "databases"   : ["MySQL"],
-    "tools"       : ["Git", "GitHub", "VS Code", "Jupyter Notebook"],
-    "concepts"    : ["CNN", "Transfer Learning", "NLP", "OOP", "DSA",
-                     "Feature Engineering", "Model Training", "Data Preprocessing"],
-    "internship"  : "AI & ML Intern @ Edubot Station Pvt. Ltd. (Jun–Jul 2025)",
-    "currently"   : "Building real-world ML models & expanding into Full-Stack Dev",
+    "degree"   : "B.Tech CSE @ BML Munjal University (2023–2027)",
+    "focus"    : ["Machine Learning", "Deep Learning", "Computer Vision", "DSA"],
+    "stack"    : ["Python", "TensorFlow", "OpenCV", "Scikit-learn", "NumPy", "Pandas"],
+    "tools"    : ["MySQL", "Git", "VS Code", "Jupyter Notebook"],
+    "currently": "Building real-world ML/AI projects 🚀",
 }
 ```
 
